@@ -1,0 +1,20 @@
+# ── Python ──────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# ── Logs & History ──────────────────────
+logs/
+all excels/
+*.log
+*.csv
+
+# ── Resume (personal file) ──────────────
+all resumes/
+
+# ── OS junk ─────────────────────────────
+.DS_Store
+Thumbs.db
