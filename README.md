@@ -3,8 +3,6 @@
 Automatically apply to LinkedIn **Easy Apply** jobs using a **Web UI** or **Direct Bot Mode** — no manual config file editing needed.
 
 > **Created by:** Muthukumar  
-> **Original bot:** [Sai Vignesh Golla](https://github.com/GodsScion/Auto_job_applier_linkedIn)  
-> **Web UI layer & enhancements:** Muthukumar
 
 ---
 
@@ -304,6 +302,4 @@ GNU Affero General Public License v3.0 — see [LICENSE](LICENSE).
 
 ## 🙏 Credits
 
-- **Original Author:** [Sai Vignesh Golla](https://github.com/GodsScion/Auto_job_applier_linkedIn) — Built the core bot engine
-- **Web UI & Enhancements:** [Muthukumar](https://github.com/mailtomuthukumar-j) — Added Flask dashboard, improved config workflow, documentation
-- **Contributors:** Dheeraj Deshwal, Yang Li, Tim L, and the open-source community
+**Muthukumar** — Full project development, Web UI, enhancements & documentation
