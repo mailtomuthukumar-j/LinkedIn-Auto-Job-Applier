@@ -566,4 +566,4 @@ All bot activity is logged to:
 
 ---
 
-> **⚠️ Disclaimer:** Use this tool responsibly. LinkedIn may temporarily restrict accounts that use automation. This is for personal use only. The original bot is by [Sai Vignesh Golla](https://github.com/GodsScion/Auto_job_applier_linkedIn).
+> **⚠️ Disclaimer:** Use this tool responsibly. LinkedIn may temporarily restrict accounts that use automation. This is for personal use only. The original bot is by [Muthukumar](https://github.com/GodsScion/Auto_job_applier_linkedIn).
